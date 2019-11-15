@@ -21,4 +21,4 @@
 5. sh autoInit.sh
 
 6. simple running
-   python main.py --port=8080 --daemonize True
+   python main.py --port=5040 --daemonize True
