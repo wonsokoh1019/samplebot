@@ -14,5 +14,5 @@ CALENDAR_LOG_FMT = '[%(asctime)-15s] [%(levelname)s] ' \
                    '%(process)d %(request_id).8s %(message)s'
 CALENDAR_LOG_LEVEL = "DEBUG"
 
-CALENDAR_PORT = 8080
+CALENDAR_PORT = 5040
 CALENDAR_PID_FILE = LOG_PATH + "calendar_bot.pid"
