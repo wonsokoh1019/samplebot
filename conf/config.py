@@ -20,7 +20,7 @@ LOCAL_ADDRESS = "https://samplebot-app.herokuapp.com/"
 # DB config
 DB_HOST = "ec2-54-235-180-123.compute-1.amazonaws.com"
 DB_PORT = "5432"
-DB_NAME = "samplebot-db"
+DB_NAME = "d6e2dcm0j64ut0"
 DB_USER = "uzmeasascifphz"
 DB_PASSWORD = "03fd7ec362a9f5de225f41f1da0dda59bf61db78c7202212ee3f055ff43b607c"
 DB_SSLMODE = "prefer"
