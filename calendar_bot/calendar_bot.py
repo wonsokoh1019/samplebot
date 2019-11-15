@@ -33,7 +33,7 @@ from calendar_bot.settings import CALENDAR_PORT, CALENDAR_LOG_FMT, \
     CALENDAR_LOG_LEVEL, CALENDAR_LOG_FILE, CALENDAR_LOG_ROTATE
 
 define("port", default=CALENDAR_PORT, help="server listen port. "
-                                           "default 5040")
+                                           "default 139")
 define("workers", default=0, help="the count of workers. "
                                   "default the same as cpu cores")
 define("logfile", default=None, help="the path for log")
