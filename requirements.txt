@@ -9,6 +9,6 @@ tornado==5.1
 uuid==1.30
 uvloop==0.11.0
 psycopg2==2.8.3
-python-jwt==3.2.4
+python-jwt==3.3.4
 DBUtils==1.3
 icalendar==4.0.3
